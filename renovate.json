@@ -7,7 +7,7 @@
   "prHourlyLimit": 3,
   "separateMajorMinor": false,
   "lockFileMaintenance": {"enabled": true},
-  "assignees": ["mwolff86"]
+  "assignees": ["mwolff86"],
   "packageRules": [
     
     {
